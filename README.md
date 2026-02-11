@@ -4,7 +4,7 @@ Simple deobf challenge for python 3.12 <br>
  - You need only recreate logic for main function or full code
 
 ## Features
- - Simple junc code in bytecode
+ - Simple junk code in bytecode
  - Obfuscation similar to cff for bytecode (Control Flow Flattering)
 
 ### If you decompile this or you have questions, write on telegram: @Hejwowowwoo
